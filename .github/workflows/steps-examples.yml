@@ -8,5 +8,5 @@ jobs:
   marketplace:
     runs-on: ubuntu-latest
     steps:
-      - name: executa comando
-      run: echo "Steps examples"
+        - name: executa comando
+        run: echo "Steps examples"
