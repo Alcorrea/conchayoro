@@ -17,7 +17,7 @@ jobs:
       - name: node verification
         run: node -v
         
-hello_world_job:
+  hello_world_job:
     runs-on: ubuntu-latest
     name: Example of custom action
     steps:
